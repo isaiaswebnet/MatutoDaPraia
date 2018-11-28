@@ -272,8 +272,8 @@
 
     // Let's start the Shoutcast plugin to get the Song Name
     $.SHOUTcast({
-       host : '192.99.8.192', // Replace this with your own radio stream URL but remove the http
-       port : $scope.radioPort,
+       host : 'http://35.231.227.140', // Replace this with your own radio stream URL but remove the http
+       port : 8000,
        interval : 40000, // Refresh interval in miliseconds is equal to 40 seconds.
        stream: 1, // Replace with your stream, default is 1.
        stats : function(){
