@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="br.com.radiomatutodapraia.rmdp" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Radio Bumpkin from Beach</name>
-    <description>Listen to your favorite artists, playlists and albums, get closer to your idols and participate in the best promotions and actions on our radio.</description>
+    <name>Matuto da Praia</name>
+    <description>Olá! Sou o Matuto da Praia, também conhecido como Laerte Araújo nas rádios onde passei. Sou radialista e comentarista na Rádio Matuto da Praia e candidato pela primeira vez a vereador de Fortaleza com o número 65.678.</description>
     <author email="isaiaswebnet@gmail.com" href="http://skynetsites.com.br">Isaias Oliveira</author>
     <content src="index.html" />
-    <engine name="android" spec="~7.0.0" />
-    <preference name="AppName" value="Radio Bumpkin from Beach" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
+    <preference name="AppName" value="Matuto da Praia" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="Orientation" value="portrait" />
