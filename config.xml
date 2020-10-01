@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.radiomatutodapraia.rmdp" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="br.com.skynetsites.matutodapraia" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Matuto da Praia</name>
     <description>Olá! Sou o Matuto da Praia, também conhecido como Laerte Araújo nas rádios onde passei. Sou radialista e comentarista na Rádio Matuto da Praia e candidato pela primeira vez a vereador de Fortaleza com o número 65.678.</description>
     <author email="isaiaswebnet@gmail.com" href="http://skynetsites.com.br">Isaias Oliveira</author>
